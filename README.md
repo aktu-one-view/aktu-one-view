@@ -74,3 +74,4 @@ Making AKTU life easier, one view at a time. Check out **[Collgo.com](https://co
 ---
 
 **Pro Tip**: Paste this into your "Aktu-one-view" repo's README.md for that authentic GitHub glow-up. Links to Collgo for backlink magic! Need ERP scripts or tweaks? Hit me up. 😊
+It gives me immense pleasure to inform you that we have made [halloween countdown] (https://halloweencountdown.org)
